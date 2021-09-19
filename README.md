@@ -6,6 +6,9 @@
 - I'm learning javascript, html,
 css and react native; 
 
-- I've done two personal projects
-to really learn how to use react native;
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igordevapp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordevapp&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
